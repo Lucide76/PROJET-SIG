@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"name": "Parcelle9",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "PL": 11, "Proprietaire": "AISANCE", "Statut": 1 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.48, -10.7098 ], [ 25.4802, -10.7098 ], [ 25.4802, -10.71 ], [ 25.48, -10.71 ], [ 25.48, -10.7098 ] ] ] } },
+{ "type": "Feature", "properties": { "PL": 12, "Proprietaire": null, "Statut": 0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.4802, -10.7098 ], [ 25.48, -10.7098 ], [ 25.48, -10.7096 ], [ 25.4802, -10.7096 ], [ 25.4802, -10.7098 ] ] ] } },
+{ "type": "Feature", "properties": { "PL": 13, "Proprietaire": "ALLIANCE", "Statut": 1 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.4802, -10.71 ], [ 25.4802, -10.7098 ], [ 25.4804, -10.7098 ], [ 25.4804, -10.71 ], [ 25.4802, -10.71 ] ] ] } },
+{ "type": "Feature", "properties": { "PL": 14, "Proprietaire": "EXCELLENT", "Statut": 1 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.4804, -10.7098 ], [ 25.4802, -10.7098 ], [ 25.4802, -10.7096 ], [ 25.4804, -10.7096 ], [ 25.4804, -10.7098 ] ] ] } },
+{ "type": "Feature", "properties": { "PL": 15, "Proprietaire": null, "Statut": 0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.4804, -10.71 ], [ 25.4804, -10.7098 ], [ 25.4806, -10.7098 ], [ 25.4806, -10.71 ], [ 25.4804, -10.71 ] ] ] } },
+{ "type": "Feature", "properties": { "PL": 249, "Proprietaire": null, "Statut": 0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.4806, -10.7098 ], [ 25.4804, -10.7098 ], [ 25.4804, -10.7096 ], [ 25.4806, -10.7096 ], [ 25.4806, -10.7098 ] ] ] } },
+{ "type": "Feature", "properties": { "PL": 245, "Proprietaire": "ALLIANCE", "Statut": 1 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.4806, -10.71 ], [ 25.4806, -10.7098 ], [ 25.4808, -10.7098 ], [ 25.4808, -10.71 ], [ 25.4806, -10.71 ] ] ] } },
+{ "type": "Feature", "properties": { "PL": 18, "Proprietaire": null, "Statut": 0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.4808, -10.7098 ], [ 25.4806, -10.7098 ], [ 25.4806, -10.7096 ], [ 25.4808, -10.7096 ], [ 25.4808, -10.7098 ] ] ] } },
+{ "type": "Feature", "properties": { "PL": 19, "Proprietaire": null, "Statut": 0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.4808, -10.71 ], [ 25.4808, -10.7098 ], [ 25.481, -10.7098 ], [ 25.481, -10.71 ], [ 25.4808, -10.71 ] ] ] } },
+{ "type": "Feature", "properties": { "PL": 20, "Proprietaire": null, "Statut": 0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.481, -10.7098 ], [ 25.4808, -10.7098 ], [ 25.4808, -10.7096 ], [ 25.481, -10.7096 ], [ 25.481, -10.7098 ] ] ] } }
+]
+}

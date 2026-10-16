@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"name": "parcelle7",
+"features": [
+{ "type": "Feature", "properties": { "PL": 11 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.48, -10.7098 ], [ 25.4802, -10.7098 ], [ 25.4802, -10.71 ], [ 25.48, -10.71 ], [ 25.48, -10.7098 ] ] ] } },
+{ "type": "Feature", "properties": { "PL": 12 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.4802, -10.7098 ], [ 25.48, -10.7098 ], [ 25.48, -10.7096 ], [ 25.4802, -10.7096 ], [ 25.4802, -10.7098 ] ] ] } },
+{ "type": "Feature", "properties": { "PL": 13 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.4802, -10.71 ], [ 25.4802, -10.7098 ], [ 25.4804, -10.7098 ], [ 25.4804, -10.71 ], [ 25.4802, -10.71 ] ] ] } },
+{ "type": "Feature", "properties": { "PL": 14 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.4804, -10.7098 ], [ 25.4802, -10.7098 ], [ 25.4802, -10.7096 ], [ 25.4804, -10.7096 ], [ 25.4804, -10.7098 ] ] ] } },
+{ "type": "Feature", "properties": { "PL": 15 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.4804, -10.71 ], [ 25.4804, -10.7098 ], [ 25.4806, -10.7098 ], [ 25.4806, -10.71 ], [ 25.4804, -10.71 ] ] ] } },
+{ "type": "Feature", "properties": { "PL": 16 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.4806, -10.7098 ], [ 25.4804, -10.7098 ], [ 25.4804, -10.7096 ], [ 25.4806, -10.7096 ], [ 25.4806, -10.7098 ] ] ] } },
+{ "type": "Feature", "properties": { "PL": 17 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.4806, -10.71 ], [ 25.4806, -10.7098 ], [ 25.4808, -10.7098 ], [ 25.4808, -10.71 ], [ 25.4806, -10.71 ] ] ] } },
+{ "type": "Feature", "properties": { "PL": 18 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.4808, -10.7098 ], [ 25.4806, -10.7098 ], [ 25.4806, -10.7096 ], [ 25.4808, -10.7096 ], [ 25.4808, -10.7098 ] ] ] } },
+{ "type": "Feature", "properties": { "PL": 19 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.4808, -10.71 ], [ 25.4808, -10.7098 ], [ 25.481, -10.7098 ], [ 25.481, -10.71 ], [ 25.4808, -10.71 ] ] ] } },
+{ "type": "Feature", "properties": { "PL": 20 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 25.481, -10.7098 ], [ 25.4808, -10.7098 ], [ 25.4808, -10.7096 ], [ 25.481, -10.7096 ], [ 25.481, -10.7098 ] ] ] } }
+]
+}
